@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Ahn%20JiSun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Ahn%20JiSun&fontSize=50)
 ## 📞 연락처
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:">
