@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Ahn%20JiSun&fontSize=50)
 ## 📞 연락처
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:">
+    <a href="">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=black&logo=Instagram"> 
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white&logo=Discord"> 
     </a>
 </div>
 
@@ -16,7 +19,8 @@
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=MyBatis&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Jsp-e76f00?style=for-the-badge&logo=Jsp&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -31,7 +35,6 @@
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Jsp-e76f00?style=for-the-badge&logo=Jsp&logoColor=white"> 
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white">
@@ -43,6 +46,8 @@
     <div>
         <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
         <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+        <img src="https://img.shields.io/badge/AndroidStudio-34A853?style=for-the-badge&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipseIDE&logoColor=white">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
         <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </div>
