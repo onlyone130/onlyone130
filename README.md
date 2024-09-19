@@ -56,3 +56,6 @@
 ## 💻 Git stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyone130&show_icons=true&theme=cobalt)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyone130&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
+
+## 💡 BOJ
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=onlyone130)](https://solved.ac/{handle})
