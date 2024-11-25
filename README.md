@@ -54,7 +54,7 @@
 </div>
 
 ## 💻 Git stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyone130&show_icons=true&theme=cobalt)
+![tama's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyone130&show_icons=true&theme=cobalt)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyone130&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
 
 ## 💡 BOJ
