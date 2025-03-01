@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Ahn%20JiSun&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hi👋🏻%20I'm%20Jisun!&fontSize=50)
 ## 📞 CONTACTS
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:ahnjisun2001@gmail.com">
