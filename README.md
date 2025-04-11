@@ -58,4 +58,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyone130&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
 
 ## 💡 BOJ
+<!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=onlyone130)](https://solved.ac/{handle})
+-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/onlyone130/)
