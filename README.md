@@ -54,8 +54,6 @@
 </div>
 
 ## 💻 Git stats
-![tama's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyone130&show_icons=true&theme=cobalt)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyone130&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onlyone130&theme=default)
 
 ## 💡 BOJ
