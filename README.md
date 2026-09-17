@@ -18,9 +18,10 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <!--img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"--> 
+        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=Python&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -38,6 +39,7 @@
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Dart-3B56A6?style=for-the-badge&logo=dart&logoColor=white">
     </div>
 </div>
 
